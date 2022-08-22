@@ -4,7 +4,7 @@ Scope defines the accessibility or visibility of variables and functions.
 ## Types of Scope
 - Global Scope
 - Local or Function Scope
-- Block Scope
+- Block Scope (ES6)
 
 ## Some more terms related to Scope
 - Lexical Scope

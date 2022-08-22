@@ -20,9 +20,9 @@ function limitAccess() {
     }
     limitAccessInner();
     
-    console.log(one);
+    console.log(one); // accessible bcoz JavaScript scope is Lexical
     console.log(two);
-    console.log(four);
+    // console.log(four); // reference error bcoz of nested scope
     // console.log(three); // reference error bcoz of block scope
 }
 
