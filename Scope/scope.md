@@ -10,7 +10,7 @@ Scope defines the accessibility or visibility of variables and functions.
 - Lexical Scope
 - Nested Scope
 
-## :thumbsup: Rule
+## :thumbsup: Rules
 - In browser, 
   ```Global scope = window```
 - Inner function scope can access variables from outer function scope aka ```Lexical Scope```
